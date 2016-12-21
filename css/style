@@ -1,0 +1,25 @@
+		.wrapper{
+			max-width: 500px;
+			margin: auto;
+		}
+		.afanasov{
+			text-align: center;
+		}
+		img {
+			border-color: black;
+		}
+		hr{
+			border: none;
+			background-color: grey;
+			color: grey;
+			height: 1px;
+		}
+		.noactive{
+			list-style-type: none;
+		}
+		.strong{
+			font-weight: 600;
+		}
+		a{
+			font-style: italic;
+		}
