@@ -1,0 +1,30 @@
+		
+		.wrapper{
+			max-width: 500px;
+			margin: auto;
+		}
+
+		.afanasov{
+			text-align: center;
+		}
+		img {
+			border-color: black;
+		}
+
+		.line{
+			border: none;
+			background-color: grey;
+			color: grey;
+			height: 1px;
+		}
+
+		.strong{
+			font-weight: 600;
+		}
+
+		a{
+			font-style: italic;
+		}
+		.noactive{
+			text-indent: 30px;
+		}
